@@ -1,0 +1,25 @@
+== English ==
+Letter to Number Encryptor converts Latin letters to their alphabet position numbers.
+Features:
+- Simple and intuitive interface
+- Real-time encryption
+- Works offline
+- No data collection
+
+How to use:
+1. Click the extension icon
+2. Type or paste your text
+3. See the encrypted result instantly
+
+== Русский ==
+Шифратор букв в числа конвертирует латинские буквы в их порядковые номера в алфавите.
+Особенности:
+- Простой и понятный интерфейс
+- Шифрование в реальном времени
+- Работает офлайн
+- Не собирает данные
+
+Как использовать:
+1. Нажмите на иконку расширения
+2. Введите или вставьте текст
+3. Получите зашифрованный результат мгновенно
